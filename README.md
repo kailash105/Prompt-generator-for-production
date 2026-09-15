@@ -4,6 +4,8 @@ A one-page Streamlit MVP that turns a developer's issue and evidence into an inv
 
 **Intake → evidence analysis → investigation plan → AI IDE prompt**
 
+Deployment instructions: [deploy.md](deploy.md) covers Render, Streamlit Community Cloud, provider secrets, verification, updates, and troubleshooting.
+
 ## Run locally
 
 Python 3.12 recommended.
